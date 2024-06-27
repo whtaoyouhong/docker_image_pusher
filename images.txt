@@ -6,3 +6,5 @@ xhofe/alist:latest
 xiaoyaliu/alist
 mysql
 haroldli/xiaoya-tvbox
+xiaoyaliu/glue
+emby/embyserver
